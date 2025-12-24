@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="8" fill="#1A1A1A"/>
+  <text x="32" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#D4AF37">K</text>
+  <path d="M20 52 C24 48, 28 44, 32 40 C36 36, 44 28, 44 20" stroke="#D4AF37" stroke-width="2" fill="none" opacity="0.6"/>
+  <circle cx="44" cy="18" r="4" fill="#D4AF37" opacity="0.8"/>
+</svg>
